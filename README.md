@@ -8,4 +8,5 @@ untuk penggunaan->
 6.jalankan
 
 
-untuk versi lengkap bisa langsung download yang zip.........
+untuk versi lengkap bisa langsung download yang zip di dalam file.........
+
