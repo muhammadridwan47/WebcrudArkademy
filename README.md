@@ -31,3 +31,8 @@ untuk versi lengkap bisa langsung download yang zip di dalam file.........
 
 ![Screenshot (304)](https://user-images.githubusercontent.com/69374541/90969327-53c01480-e521-11ea-862b-7987d05f0dc4.png)
 
+- data awal
+
+![Screenshot (305)](https://user-images.githubusercontent.com/69374541/90969344-8702a380-e521-11ea-9afc-273c53375247.png)
+
+
