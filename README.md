@@ -17,3 +17,8 @@ untuk versi lengkap bisa langsung download yang zip di dalam file.........
 ![Screenshot (300)](https://user-images.githubusercontent.com/69374541/90969233-76056280-e520-11ea-86f1-89ae86bef5a9.png)
 
 
+- halaman tambah produk
+
+![Screenshot (301)](https://user-images.githubusercontent.com/69374541/90969276-de544400-e520-11ea-9ca5-f1d6621fed41.png)
+
+
