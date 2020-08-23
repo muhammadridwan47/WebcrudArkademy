@@ -25,3 +25,9 @@ untuk versi lengkap bisa langsung download yang zip di dalam file.........
 - Halaman update produk
 
 ![Screenshot (303)](https://user-images.githubusercontent.com/69374541/90969308-30956500-e521-11ea-87ec-6907399c0d11.png)
+
+
+- Berhasil di Update 
+
+![Screenshot (304)](https://user-images.githubusercontent.com/69374541/90969327-53c01480-e521-11ea-862b-7987d05f0dc4.png)
+
