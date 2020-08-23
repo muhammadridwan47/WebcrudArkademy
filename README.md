@@ -10,3 +10,10 @@ untuk penggunaan->
 
 untuk versi lengkap bisa langsung download yang zip di dalam file.........
 
+
+
+- Halaman utama produk
+
+![Screenshot (300)](https://user-images.githubusercontent.com/69374541/90969233-76056280-e520-11ea-86f1-89ae86bef5a9.png)
+
+
